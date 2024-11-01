@@ -1,0 +1,103 @@
+{
+  "Hero": {
+    "title": "Biz Haqimizda",
+    "readMore": "Bu yerda o'qishingiz mumkin",
+    "heading": "Alsha - g'irt o'zbek tilida muloqot qiluvchi Sun'iy Intellekt",
+    "subheading": "Biznesingiz samaradorligini eng so'nggi texnologiyalar bilan bir necha karra oshiring.",
+    "buttonText": "Sinash",
+    "logoAlt": "logo"
+  },
+  "HeroCards": {
+    "microAlt": "Microphone",
+    "firstImageAlt": "Tabiiy va samarali muloqot",
+    "secondImageAlt": "Tez, aniq va qulay",
+    "thirdImageAlt": "Har kuni o'sib boruvchi SI",
+    "fourthImageAlt": "Keng qamrovli Sun’iy Intellekt",
+    "fiveImageAlt": "Eng so’ngi biznes yechimlar",
+    "naturalAndEffective": "Tabiiy va Samarali Muloqot",
+    "fastAccurateConvenient": "Tez, Aniq va Qulay",
+    "growingAI": "Har kuni rivojlanib boruvchi SI",
+    "comprehensiveAI": "Keng Qamrovli Sun’iy Intellekt",
+    "latestBusinessSolutions": "Eng oxirgi  biznes yechimlar"
+  },
+
+  "Header": {
+    "aboutUs": "BIZ HAQIMIZDA",
+    "products": "MAHSULOTLARIMIZ",
+    "blog": "BLOG",
+    "profilePicture": "Profil rasmi"
+  },
+  "Products": {
+    "PRODUCTS": "MAHSULOTLAR",
+    "WHAT_WE_OFFER": "Mijozlar uchun nimalar taklif qilamiz?",
+    "AI_FEATURES": "AIsha quyidagi keng miqyosli imkoniyatlarga ega",
+    "STT": "Ovozdan matnga (STT)",
+    "STT_DESC": "O‘zbek tilidagi audio materiallarni yuqori aniqlikda matnga aylantiradi",
+    "TTS": "Matndan ovozga (TTS)",
+    "TTS_DESC": "O‘zbek tilidagi matndan tabiiy tovushli nutqni yaratadi",
+    "CHATBOT": "O‘zbek tilida chatbot",
+    "CHATBOT_DESC": "Foydalanuvchilar bilan aqlli va kontekstga mos suhbatlar olib boradi va tezkor javoblar beradi",
+    "SPEECH_RECOGNITION": "Ovozni tanib olish",
+    "SPEECH_RECOGNITION_DESC": "Bu inson nutqini aniqlash va tushunishdir. Bu texnologiya qurilmalarga ovozli buyrug'ni bajarishga yordam beradi.",
+    "DIARIZATION": "Diarizatsiya",
+    "DIARIZATION_DESC": "Suhbatda turli so’zlovchilarni ajrata oladi va har bir ovozni alohida matnlashtiradi.",
+    "VOICE_CLONING": "Ovoz klonlashtirish",
+    "VOICE_CLONING_DESC": "Ushbu xususiyat orqali  har qanday ovozni kloniga ega bo’lasiz"
+  },
+  "BusinessAdvice": {
+    "title": "TAKLIFLAR",
+    "heading": "Bizneslar uchun nimalarni taklif qilamiz?",
+    "description": "Aisha quyidagi keng miqyosli imkoniyatlarga ega",
+    "specialSolutions": {
+      "alt": "Maxsus yechimlar",
+      "title": "Maxsus yechimlar",
+      "description": "Sizning biznes ehtiyojlaringizga moslashtirilgan sun’iy intellekt modellari va APIlarga ega bo‘ling."
+    },
+    "userFriendlyInterface": {
+      "alt": "Foydalanuvchi uchun qulay interfeys",
+      "title": "Foydalanuvchi uchun qulay interfeys",
+      "description": "Foydalanishga oson va o‘z biznesingizga moslashuvchi ma’lumotlar paneliga ega bo‘ling."
+    },
+    "supportAndTraining": {
+      "alt": "Qo‘llab-quvvatlash va o‘qitish",
+      "title": "Qo‘llab-quvvatlash va o‘qitish",
+      "description": "24/7 mijozlarni qo‘llab-quvvatlovi va o‘quv dasturlariga ega bo‘ling."
+    }
+  },
+  "Footer": {
+    "businessDescription": "Biznesingiz samaradorligini eng yangi texnologiyalar bilan bir necha karraga oshiring.",
+
+    "socialMedia": {
+      "instagram": "Instagram",
+      "telegram": "Telegram",
+      "facebook": "Facebook",
+      "youtube": "YouTube"
+    },
+    "products": {
+      "mk": "MAHSULOTLAR",
+      "stt": "Nutqni matnga o'girish (STT)",
+      "tts": "Matnni nutqqa o'girish (TTS)",
+      "chatbot": "O'zbek tilida chatbot",
+      "diarization": "Diarizatsiya",
+      "voiceRecognition": "Ovoz tanib olish",
+      "voiceCloning": "Ovoz klonlashtirish"
+    },
+    "company": {
+      "tk": "Kompaniya",
+      "aboutUs": "Biz haqimizda",
+      "blog": "Blog",
+      "privacy": "Xavfsizlik va maxfiylik"
+    },
+    "copyright": "Copyright 2024 － \"Imkon\" LLC",
+    "poweredBy": "Powered by"
+  },
+  "Cooperation": {
+    "title": "Bizga ishonch bildirgan kompaniyalar",
+    "description": "AIsha loyihasi hozirda ushbu kompaniyalar bilan yaqindan hamkorlik qilmoqda",
+    "partners": {
+      "ham1": "Hamkorlik partneri 1",
+      "ham2": "Hamkorlik partneri 2",
+      "ham3": "Hamkorlik partneri 3"
+    }
+  }
+}

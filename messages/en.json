@@ -1,0 +1,111 @@
+{
+  "Hero": {
+    "title": "About Us",
+    "readMore": "Read here",
+    "heading": "Alsha - Artificial Intelligence that Communicates in Pure Uzbek Language",
+    "subheading": "Boost your business efficiency with the latest technologies.",
+    "buttonText": "Try It Out"
+  },
+  "HeroCards": {
+    "firstImageAlt": "Natural and effective communication",
+    "secondImageAlt": "Fast, accurate, and convenient",
+    "thirdImageAlt": "Growing AI",
+    "fourthImageAlt": "Comprehensive AI",
+    "fiveImageAlt": "Latest business solutions",
+    "naturalAndEffective": "Natural and Effective Communication",
+    "fastAccurateConvenient": "Fast, Accurate, and Convenient",
+    "growingAI": "Growing AI Every Day",
+    "comprehensiveAI": "Comprehensive Artificial Intelligence",
+    "latestBusinessSolutions": "Latest Business Solutions"
+  },
+  "Header": {
+    "aboutUs": "ABOUT US",
+    "products": "PRODUCTS",
+    "blog": "BLOG",
+    "profilePicture": "Profile Picture"
+  },
+  "Products": {
+    "PRODUCTS": "Products",
+    "WHAT_WE_OFFER": "What We Offer",
+    "AI_FEATURES": "AI has the following broad capabilities",
+    "STT": "Speech-to-Text (STT)",
+    "STT_DESC": "Converts Uzbek language audio materials into text with high accuracy",
+    "TTS": "Text-to-Speech (TTS)",
+    "TTS_DESC": "Creates natural-sounding speech from Uzbek language text",
+    "CHATBOT": "Uzbek Language Chatbot",
+    "CHATBOT_DESC": "Engages in intelligent and contextually appropriate conversations with users and provides quick responses",
+    "SPEECH_RECOGNITION": "Speech Recognition",
+    "SPEECH_RECOGNITION_DESC": "Detects and understands human speech. This technology helps devices execute voice commands.",
+    "DIARIZATION": "Diarization",
+    "DIARIZATION_DESC": "Identifies different speakers in a conversation and transcribes each voice separately.",
+    "VOICE_CLONING": "Voice Cloning",
+    "VOICE_CLONING_DESC": "Feature for accurate and natural-sounding voice cloning."
+  },
+  "BusinessAdvice": {
+    "title": "OFFERS",
+    "heading": "What do we offer for businesses?",
+    "description": "Aisha offers the following broad capabilities",
+    "specialSolutions": {
+      "alt": "Special Solutions",
+      "title": "Special Solutions",
+      "description": "Get AI models and APIs tailored to your business needs."
+    },
+    "userFriendlyInterface": {
+      "alt": "User-Friendly Interface",
+      "title": "User-Friendly Interface",
+      "description": "Get an easy-to-use and customizable dashboard for your business."
+    },
+    "supportAndTraining": {
+      "alt": "Support and Training",
+      "title": "Support and Training",
+      "description": "Access 24/7 customer support and training programs."
+    },
+    "VoiceSection": {
+      "title": "Speech to Text (STT)",
+      "subtitle": "Converts Uzbek audio materials into text with high accuracy",
+      "recordingButton": "Record Voice",
+      "uploadButton": "Upload File",
+      "instructionRecording": "Click to record voice",
+      "instructionUpload": "Click to upload file",
+      "supportedFormats": "Supports OGG, MP3 formats. Audio duration limit is 10 minutes.",
+      "fileError": "Please upload a file in one of the specified formats or with a duration of less than 10 minutes.",
+      "transcriptionResult": "Transcription Result",
+      "copied": "Copied!"
+    }
+  },
+  "Footer": {
+    "businessDescription": "Enhance the effectiveness of your business with the latest technologies.",
+    "socialMedia": {
+      "instagram": "Instagram",
+      "telegram": "Telegram",
+      "facebook": "Facebook",
+      "youtube": "YouTube"
+    },
+    "products": {
+      "mk": "PRODUCTS",
+      "stt": "Speech-to-Text (STT)",
+      "tts": "Text-to-Speech (TTS)",
+      "chatbot": "Uzbek Language Chatbot",
+      "diarization": "Diarization",
+      "voiceRecognition": "Voice Recognition",
+      "voiceCloning": "Voice Cloning"
+    },
+    "company": {
+      "tk": "COMAPNY",
+      "aboutUs": "About Us",
+      "blog": "Blog",
+      "privacy": "Privacy and Security"
+    },
+    "copyright": "Copyright 2024 － \"Imkon\" LLC",
+    "poweredBy": "Powered by"
+  },
+  "Cooperation": {
+    "title": "Companies That Trust Us",
+    "description": "The AIsha project is currently working closely with these companies",
+    "partners": {
+      "ham1": "Partner 1",
+      "ham2": "Partner 2",
+      "ham3": "Partner 3"
+    }
+  }
+}

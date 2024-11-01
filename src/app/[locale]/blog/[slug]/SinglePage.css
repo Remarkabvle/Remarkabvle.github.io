@@ -1,0 +1,97 @@
+*{
+    font-family: 'Inter' sans-serif;
+}
+.title{
+    overflow: hidden;
+    color: var(--Main-colors-Black, #2B2B2B);
+    text-overflow: ellipsis;
+    font-family: Inter;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+    /* display: none;  */
+ } 
+.post-content p{
+    color: var(--Main-colors-Black, #2B2B2B);
+    /* font-family: Inter  ; */
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 150%;
+  font-family: Inter, sans-serif !important;
+
+    /* display: none; */
+}
+.post-content h3{
+    color: var(--Main-colors-Black, #2B2B2B);
+    font-family: Inter;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+  font-family: Inter, sans-serif !important;
+
+    line-height: 150%;
+}
+
+.post-content h4{
+    color: var(--Main-Black, #2B2B2B);
+    /* font-family: Inter;
+  font-family: Inter, sans-serif !important;
+     */
+  font-family: Inter, sans-serif !important;
+
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.left-content{
+    background: white !important;
+    display: flex;
+    flex-direction: column;
+    border-radius: 17px;
+    justify-content: start;
+    /* width: 68.5%; */
+}
+
+.post-content img{
+    max-width: 100%;
+    width: 100%;
+    height: auto !important; width: 100% !important; border-radius: 24px !important; margin: 16px 0px !important; border: 1px solid rgb(242, 243, 247) !important;
+}
+
+.post-content em{
+    color: var(--Main-colors-Black, #2B2B2B);
+    font-family: Inter;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    
+}
+
+
+.time{
+    overflow: hidden;
+    color: var(--Grey-colors-Grey-0, #697583);
+    text-overflow: ellipsis;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.right-content-title{
+    color: var(--Main-colors-Black, #2B2B2B);
+font-family: Inter;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
